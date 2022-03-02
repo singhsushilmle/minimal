@@ -1,9 +1,7 @@
 # Profile Summary:
-•	Total of 15 years of hard-core experience on Development projects comprises of Micro focus COBOL, Mainframe COBOL, TWSD, Git Hub, AZURE CI/CD Pipeline, TFS, JENKINS, CICS, JCL, DB2, IMS/DB, IMS/DC, & MQ Series.
-•	Total of 8 years of rich overseas exposure at client location in United State. 
-•	Worked for Banking & financial, HealthCare, Insurance, Logistic and Telecom domain with Mainframe Technology. 
-•	Expertise in bug fixing & resolution of issues; prepared coding timelines, evaluated architecture, provided technical direction to the team, and undertook effort estimation, status reporting and mentoring for various projects. 
-•	Worked on various application development projects using Scrum/Agile methodologies; capable of delivering large-scale software projects by effectively collaborating, facilitating, leading and mentoring multiple Scrum teams in continuous integration & continuous development environment.
+Worked across multiple domain Banking & financial, HealthCare & Insurance. I do have 8 years rich experince in United State.
+Expertise in bug fixing & resolution of issues; prepared coding timelines, evaluated architecture, provided technical direction to the team.
+Worked on various application development projects using Scrum/Agile methodologies; capable of delivering large-scale software projects by effectively collaborating, facilitating, leading and mentoring multiple Scrum teams in continuous integration & continuous development environment.
 
 ---
 ## Machine learning
