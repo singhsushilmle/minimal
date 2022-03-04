@@ -1,7 +1,9 @@
 # Profile Summary:
-Worked across multiple domain Banking & financial, HealthCare & Insurance. I do have 8 years rich experince in United State.
-Expertise in bug fixing & resolution of issues; prepared coding timelines, evaluated architecture, provided technical direction to the team.
-Worked on various application development projects using Scrum/Agile methodologies; capable of delivering large-scale software projects by effectively collaborating, facilitating, leading and mentoring multiple Scrum teams in continuous integration & continuous development environment.
+###### Worked across multiple domain Banking & financial, HealthCare & Insurance. 
+###### I do have 8 years rich experince in United State.
+###### Worked on various application development projects using Scrum/Agile methodologies.
+###### Capable of delivering large-scale software projects by effectively collaborating, facilitating, 
+###### leading and mentoring multiple Scrum teams in continuous integration & continuous development environment.
 
 ---
 ## Machine learning
